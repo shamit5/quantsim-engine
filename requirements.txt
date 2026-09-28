@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+matplotlib
+yfinance      # optional: live market data
+streamlit     # optional: interactive dashboard
+pytest        # optional: run tests
